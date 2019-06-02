@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1559130567 source:c:\users\patryk\documents\c++\struktury_2\main\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<windows.h>
+	<algorithm>
+	<ctime>
+	<cmath>
+
+1558995542 c:\users\patryk\documents\c++\struktury_2\main\funkcje.h
+
+1558996055 source:c:\users\patryk\documents\c++\struktury_2\main\funkcje.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<windows.h>
+	<algorithm>
+	<ctime>
+	<cmath>
+
